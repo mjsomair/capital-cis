@@ -5,7 +5,7 @@
   <artifactId>consumerBanking</artifactId>
   <packaging>jar</packaging>
   <version>3.0-SNAPSHOT</version>
-  <name>consumerBanking App.java</name>
+  <name>consumerBanking</name>
   <url>http://maven.apache.org</url>
    <properties>
     <maven.compiler.source>1.6</maven.compiler.source>
